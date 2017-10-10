@@ -1,4 +1,4 @@
 # hello-world
 trial repo
 
-Hi git!
+Hi git! This is the first file.
