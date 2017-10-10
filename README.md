@@ -1,4 +1,4 @@
 # hello-world
 trial repo
 
-Hi git!
+Hi Git!
