@@ -1,4 +1,4 @@
 # hello-world
 trial repo
 
-Hi Git!
+Hi git!  //check who is git
