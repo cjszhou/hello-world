@@ -1,0 +1,22 @@
+From e03feb4f6769e57b809e4107761a43ba7a43bba8 Mon Sep 17 00:00:00 2001
+From: szhou <szhou@micron.com>
+Date: Tue, 10 Oct 2017 13:24:57 +0800
+Subject: [PATCH] Add this is first
+
+---
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index eaa0c0b..7354d73 100644
+--- a/README.md
++++ b/README.md
+@@ -1,4 +1,4 @@
+ # hello-world
+ trial repo
+ 
+-Hi git!
++Hi git! This is the first file.
+-- 
+2.6.1.windows.1
+
